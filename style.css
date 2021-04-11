@@ -1,11 +1,15 @@
+body{
+    background-color: powderblue;
+}
+
 h1{
-    color: cyan;
-    background-color: darkblue;
+    color: rgb(255, 55, 99);
+    text-align: center;
+    text-decoration: underline;
 }
 
 p{
-    color: darkcyan;
-    background-color: darkgray;
+    color: #ff33ff;
 }
 
 h2{
